@@ -18,22 +18,22 @@ I've worked across industries including betting/gaming and fintech, leading back
 ---
 🛠️ Tech Stack
 Languages
-![JAVA]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 Architecture & Messaging
-![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge&logo=buffer&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge&logo=xml&logoColor=white)
 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -75,5 +75,4 @@ Expanding into Spring Cloud ecosystem
 Always open to collaborating — feel free to reach out!
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrashmanIam&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TrashmanIam&show_icons=true&theme=
