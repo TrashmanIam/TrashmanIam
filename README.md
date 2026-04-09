@@ -14,7 +14,7 @@
 ---
 👨‍💻 About Me
 Back-end Software Engineer with 7+ years of experience designing and building Java-based enterprise and microservices systems. I specialize in Spring Boot, Oracle PL/SQL, and distributed architectures, with a strong focus on scalable and reliable solutions.
-I've worked across industries including betting/gaming and fintech, leading backend migrations, integrating real-time data pipelines with Kafka, and architecting REST/SOAP services for high-traffic systems.
+I've worked across industries including betting/gaming and farming, i have proven experience on backend migrations, integrating real-time data pipelines with Kafka, and architecting REST/SOAP services for high-traffic systems.
 ---
 🛠️ Tech Stack
 <h4>Languages</h4>
@@ -65,7 +65,7 @@ Developed Java EE applications with Hibernate and JSF on JBoss
 Integrated internal microservices for seamless inter-service communication
 Built business logic in Oracle PL/SQL for scalable performance
 🏢 Dreamcode — Senior Software Engineer  `May 2022 – Jun 2023`
-Built Spring Boot microservices with Spring JPA, MVC, and Auth0
+Built Spring Boot microservices with Spring JPA, MVC, Auth0, Config and Feign.
 Implemented CI/CD pipelines with optimized release management
 Enhanced systems with Kafka for real-time data streaming
 Migrated a monolithic system to microservices, improving transaction performance and scalability
@@ -86,7 +86,3 @@ Designed and optimized business logic in Oracle PL/SQL and PostgreSQL
 Deepening knowledge in Microservices patterns (Saga, CQRS, Circuit Breaker)
 Expanding into the Spring Cloud ecosystem
 Always open to collaborating — feel free to reach out!
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrashmanIam&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
